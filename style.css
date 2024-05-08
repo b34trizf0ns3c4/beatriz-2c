@@ -1,0 +1,22 @@
+body{
+    background-color: #5a7ec2;
+    color: rgb(32, 26, 26);
+}
+header{
+    background-color: #383d58;
+color: rgb(206, 105, 105);
+}
+.cabeçalho-imagem {
+    width: 20%;
+}
+.cabeçalho {
+    background-color: #383d58;
+    color: rgb(211, 198, 198);
+    display: flex;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    justify-content: space-around;
+    padding: 24px 0;
+}
